@@ -1,0 +1,17 @@
+{
+  "test_mse": 0.004327219910919666,
+  "test_mae": 0.048756007105112076,
+  "training_samples": 8000,
+  "test_samples": 2000,
+  "timestamp": "2025-11-29T15:56:11.910645",
+  "model_architecture": {
+    "hidden_layers": [
+      128,
+      64,
+      32
+    ],
+    "dropout_rate": 0.2,
+    "optimizer": "adam",
+    "loss_function": "mean_squared_error"
+  }
+}
